@@ -1,0 +1,17 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+pandas 
+scikit-learn
+#pickle
+
+
+flasgger
+#streamlit
+
+
+
